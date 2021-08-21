@@ -1,0 +1,1345 @@
+Bronze,Country_Code,Country_Name,Gold,Host_city,Host_country,Silver,Year
+30,(USA),United States,41,Los Angeles,United States,32,1932
+12,(ITA),Italy,12,Los Angeles,United States,12,1932
+4,(FRA),France,10,Los Angeles,United States,5,1932
+9,(SWE),Sweden,9,Los Angeles,United States,5,1932
+4,(JPN),Japan,7,Los Angeles,United States,7,1932
+5,(HUN),Hungary,6,Los Angeles,United States,4,1932
+12,(FIN),Finland,5,Los Angeles,United States,8,1932
+5,(GBR),Great Britain,4,Los Angeles,United States,7,1932
+5,(GER),Germany,3,Los Angeles,United States,12,1932
+1,(AUS),Australia,3,Los Angeles,United States,1,1932
+0,(ARG),Argentina,3,Los Angeles,United States,1,1932
+8,(CAN),Canada,2,Los Angeles,United States,5,1932
+0,(NED),Netherlands,2,Los Angeles,United States,5,1932
+4,(POL),Poland,2,Los Angeles,United States,1,1932
+3,(RSA),South Africa,2,Los Angeles,United States,0,1932
+0,(IRL),Ireland,2,Los Angeles,United States,0,1932
+1,(TCH),Czechoslovakia,1,Los Angeles,United States,2,1932
+3,(AUT),Austria,1,Los Angeles,United States,1,1932
+0,(IND),India,1,Los Angeles,United States,0,1932
+3,(DEN),Denmark,0,Los Angeles,United States,3,1932
+0,(MEX),Mexico,0,Los Angeles,United States,2,1932
+0,(LAT),Latvia,0,Los Angeles,United States,1,1932
+0,(NZL),New Zealand,0,Los Angeles,United States,1,1932
+0,(SUI),Switzerland,0,Los Angeles,United States,1,1932
+3,(PHI),Philippines,0,Los Angeles,United States,0,1932
+1,(ESP),Spain,0,Los Angeles,United States,0,1932
+1,(URU),Uruguay,0,Los Angeles,United States,0,1932
+16,(USA),United States,22,Amsterdam,Netherlands,18,1928
+14,(GER),Germany,10,Amsterdam,Netherlands,7,1928
+9,(FIN),Finland,8,Amsterdam,Netherlands,8,1928
+12,(SWE),Sweden,7,Amsterdam,Netherlands,6,1928
+7,(ITA),Italy,7,Amsterdam,Netherlands,5,1928
+4,(SUI),Switzerland,7,Amsterdam,Netherlands,4,1928
+5,(FRA),France,6,Amsterdam,Netherlands,10,1928
+4,(NED),Netherlands,6,Amsterdam,Netherlands,9,1928
+0,(HUN),Hungary,4,Amsterdam,Netherlands,5,1928
+7,(CAN),Canada,4,Amsterdam,Netherlands,4,1928
+7,(GBR),Great Britain,3,Amsterdam,Netherlands,10,1928
+1,(ARG),Argentina,3,Amsterdam,Netherlands,3,1928
+2,(DEN),Denmark,3,Amsterdam,Netherlands,1,1928
+2,(TCH),Czechoslovakia,2,Amsterdam,Netherlands,5,1928
+1,(JPN),Japan,2,Amsterdam,Netherlands,2,1928
+2,(EST),Estonia,2,Amsterdam,Netherlands,1,1928
+1,(EGY),Egypt,2,Amsterdam,Netherlands,1,1928
+1,(AUT),Austria,2,Amsterdam,Netherlands,0,1928
+1,(AUS),Australia,1,Amsterdam,Netherlands,2,1928
+1,(NOR),Norway,1,Amsterdam,Netherlands,2,1928
+3,(POL),Poland,1,Amsterdam,Netherlands,1,1928
+3,(YUG),Yugoslavia,1,Amsterdam,Netherlands,1,1928
+2,(RSA),South Africa,1,Amsterdam,Netherlands,0,1928
+0,(IND),India,1,Amsterdam,Netherlands,0,1928
+0,(IRL),Ireland,1,Amsterdam,Netherlands,0,1928
+0,(NZL),New Zealand,1,Amsterdam,Netherlands,0,1928
+0,(ESP),Spain,1,Amsterdam,Netherlands,0,1928
+0,(URU),Uruguay,1,Amsterdam,Netherlands,0,1928
+2,(BEL),Belgium,0,Amsterdam,Netherlands,1,1928
+0,(CHI),Chile,0,Amsterdam,Netherlands,1,1928
+0,(HAI),Haiti,0,Amsterdam,Netherlands,1,1928
+1,(PHI),Philippines,0,Amsterdam,Netherlands,0,1928
+1,(POR),Portugal,0,Amsterdam,Netherlands,0,1928
+27,(USA),United States,45,Paris,France,27,1924
+10,(FIN),Finland,14,Paris,France,13,1924
+10,(FRA),France,13,Paris,France,15,1924
+12,(GBR),Great Britain,9,Paris,France,13,1924
+5,(ITA),Italy,8,Paris,France,3,1924
+10,(SUI),Switzerland,7,Paris,France,8,1924
+3,(NOR),Norway,5,Paris,France,2,1924
+12,(SWE),Sweden,4,Paris,France,13,1924
+5,(NED),Netherlands,4,Paris,France,1,1924
+3,(BEL),Belgium,3,Paris,France,7,1924
+2,(AUS),Australia,3,Paris,France,1,1924
+2,(DEN),Denmark,2,Paris,France,5,1924
+4,(HUN),Hungary,2,Paris,France,3,1924
+0,(YUG),Yugoslavia,2,Paris,France,0,1924
+5,(TCH),Czechoslovakia,1,Paris,France,4,1924
+2,(ARG),Argentina,1,Paris,France,3,1924
+4,(EST),Estonia,1,Paris,France,1,1924
+1,(RSA),South Africa,1,Paris,France,1,1924
+0,(URU),Uruguay,1,Paris,France,0,1924
+1,(AUT),Austria,0,Paris,France,3,1924
+1,(CAN),Canada,0,Paris,France,3,1924
+1,(POL),Poland,0,Paris,France,1,1924
+1,(HAI),Haiti,0,Paris,France,0,1924
+1,(JPN),Japan,0,Paris,France,0,1924
+1,(NZL),New Zealand,0,Paris,France,0,1924
+1,(POR),Portugal,0,Paris,France,0,1924
+1,(ROU),Romania,0,Paris,France,0,1924
+27,(USA),United States,41,Antwerp,Belgium,27,1920
+25,(SWE),Sweden,19,Antwerp,Belgium,20,1920
+14,(BEL),Belgium,16,Antwerp,Belgium,12,1920
+9,(FIN),Finland,15,Antwerp,Belgium,10,1920
+13,(GBR),Great Britain,14,Antwerp,Belgium,16,1920
+9,(NOR),Norway,13,Antwerp,Belgium,9,1920
+5,(ITA),Italy,13,Antwerp,Belgium,5,1920
+13,(FRA),France,9,Antwerp,Belgium,19,1920
+5,(NED),Netherlands,4,Antwerp,Belgium,2,1920
+1,(DEN),Denmark,3,Antwerp,Belgium,9,1920
+3,(RSA),South Africa,3,Antwerp,Belgium,4,1920
+3,(CAN),Canada,3,Antwerp,Belgium,3,1920
+7,(SUI),Switzerland,2,Antwerp,Belgium,2,1920
+0,(EST),Estonia,1,Antwerp,Belgium,2,1920
+1,(BRA),Brazil,1,Antwerp,Belgium,1,1920
+1,(AUS),Australia,0,Antwerp,Belgium,2,1920
+0,(JPN),Japan,0,Antwerp,Belgium,2,1920
+0,(ESP),Spain,0,Antwerp,Belgium,2,1920
+0,(GRE),Greece,0,Antwerp,Belgium,1,1920
+0,(LUX),Luxembourg,0,Antwerp,Belgium,1,1920
+2,(TCH),Czechoslovakia,0,Antwerp,Belgium,0,1920
+1,(NZL),New Zealand,0,Antwerp,Belgium,0,1920
+19,(USA),United States,26,Stockholm,Sweden,19,1912
+17,(SWE),Sweden,24,Stockholm,Sweden,24,1912
+16,(GBR),Great Britain,10,Stockholm,Sweden,15,1912
+9,(FIN),Finland,9,Stockholm,Sweden,8,1912
+3,(FRA),France,7,Stockholm,Sweden,5,1912
+7,(GER),Germany,6,Stockholm,Sweden,13,1912
+2,(ITA),Italy,5,Stockholm,Sweden,1,1912
+0,(RSA),South Africa,4,Stockholm,Sweden,2,1912
+5,(NOR),Norway,4,Stockholm,Sweden,1,1912
+3,(CAN),Canada,3,Stockholm,Sweden,2,1912
+3,(HUN),Hungary,3,Stockholm,Sweden,2,1912
+3,(ANZ),Australasia,2,Stockholm,Sweden,2,1912
+3,(BEL),Belgium,2,Stockholm,Sweden,1,1912
+5,(DEN),Denmark,1,Stockholm,Sweden,6,1912
+1,(GRE),Greece,1,Stockholm,Sweden,0,1912
+0,(SUI),Switzerland,1,Stockholm,Sweden,0,1912
+3,(RU1),Russian Empire,0,Stockholm,Sweden,2,1912
+2,(AUT),Austria,0,Stockholm,Sweden,2,1912
+3,(NED),Netherlands,0,Stockholm,Sweden,0,1912
+39,(GBR),Great Britain,56,London,Great Britain,51,1908
+12,(USA),United States,23,London,Great Britain,12,1908
+11,(SWE),Sweden,8,London,Great Britain,6,1908
+9,(FRA),France,5,London,Great Britain,5,1908
+5,(GER),Germany,3,London,Great Britain,5,1908
+2,(HUN),Hungary,3,London,Great Britain,4,1908
+10,(CAN),Canada,3,London,Great Britain,3,1908
+3,(NOR),Norway,2,London,Great Britain,3,1908
+0,(ITA),Italy,2,London,Great Britain,2,1908
+2,(BEL),Belgium,1,London,Great Britain,5,1908
+2,(ANZ),Australasia,1,London,Great Britain,2,1908
+0,(RU1),Russian Empire,1,London,Great Britain,2,1908
+3,(FIN),Finland,1,London,Great Britain,1,1908
+0,(RSA),South Africa,1,London,Great Britain,1,1908
+1,(GRE),Greece,0,London,Great Britain,3,1908
+3,(DEN),Denmark,0,London,Great Britain,2,1908
+2,(BOH),Bohemia,0,London,Great Britain,0,1908
+2,(NED),Netherlands,0,London,Great Britain,0,1908
+1,(AUT),Austria,0,London,Great Britain,0,1908
+77,(USA),United States,76,St. Louis,United States,78,1904
+6,(GER),Germany,4,St. Louis,United States,5,1904
+1,(CAN),Canada,4,St. Louis,United States,1,1904
+0,(CUB),Cuba,3,St. Louis,United States,0,1904
+1,(HUN),Hungary,2,St. Louis,United States,1,1904
+1,(ZZX),Mixed team,2,St. Louis,United States,1,1904
+0,(NOR),Norway,2,St. Louis,United States,0,1904
+1,(AUT),Austria,1,St. Louis,United States,1,1904
+0,(GBR),Great Britain,1,St. Louis,United States,1,1904
+2,(SUI),Switzerland,1,St. Louis,United States,0,1904
+1,(GRE),Greece,1,St. Louis,United States,0,1904
+1,(AUS),Australia,0,St. Louis,United States,3,1904
+0,(FRA),France,0,St. Louis,United States,1,1904
+37,(FRA),France,27,Paris,France,38,1900
+15,(USA),United States,19,Paris,France,14,1900
+9,(GBR),Great Britain,15,Paris,France,8,1900
+6,(ZZX),Mixed team,8,Paris,France,5,1900
+4,(BEL),Belgium,6,Paris,France,7,1900
+1,(SUI),Switzerland,6,Paris,France,2,1900
+2,(GER),Germany,4,Paris,France,3,1900
+0,(ITA),Italy,3,Paris,France,2,1900
+3,(AUS),Australia,2,Paris,France,0,1900
+2,(DEN),Denmark,1,Paris,France,3,1900
+2,(HUN),Hungary,1,Paris,France,2,1900
+0,(CUB),Cuba,1,Paris,France,1,1900
+1,(CAN),Canada,1,Paris,France,0,1900
+0,(ESP),Spain,1,Paris,France,0,1900
+0,(LUX),Luxembourg,1,Paris,France,0,1900
+3,(AUT),Austria,0,Paris,France,3,1900
+3,(NOR),Norway,0,Paris,France,2,1900
+3,(NED),Netherlands,0,Paris,France,2,1900
+0,(IND),India,0,Paris,France,2,1900
+1,(BOH),Bohemia,0,Paris,France,1,1900
+1,(SWE),Sweden,0,Paris,France,0,1900
+2,(USA),United States,11,Athens,Greece,7,1896
+19,(GRE),Greece,10,Athens,Greece,18,1896
+2,(GER),Germany,6,Athens,Greece,5,1896
+2,(FRA),France,5,Athens,Greece,4,1896
+2,(GBR),Great Britain,2,Athens,Greece,3,1896
+3,(HUN),Hungary,2,Athens,Greece,1,1896
+2,(AUT),Austria,2,Athens,Greece,1,1896
+0,(AUS),Australia,2,Athens,Greece,0,1896
+3,(DEN),Denmark,1,Athens,Greece,2,1896
+0,(SUI),Switzerland,1,Athens,Greece,2,1896
+1,(ZZX),Mixed team,1,Athens,Greece,0,1896
+30,(USA),United States,83,Los Angeles,United States,61,1984
+17,(ROU),Romania,20,Los Angeles,United States,16,1984
+23,(FRG),West Germany,17,Los Angeles,United States,19,1984
+9,(CHN),China,15,Los Angeles,United States,8,1984
+12,(ITA),Italy,14,Los Angeles,United States,6,1984
+16,(CAN),Canada,10,Los Angeles,United States,18,1984
+14,(JPN),Japan,10,Los Angeles,United States,8,1984
+2,(NZL),New Zealand,8,Los Angeles,United States,1,1984
+7,(YUG),Yugoslavia,7,Los Angeles,United States,4,1984
+7,(KOR),South Korea,6,Los Angeles,United States,6,1984
+21,(GBR),Great Britain,5,Los Angeles,United States,11,1984
+16,(FRA),France,5,Los Angeles,United States,7,1984
+6,(NED),Netherlands,5,Los Angeles,United States,2,1984
+12,(AUS),Australia,4,Los Angeles,United States,8,1984
+6,(FIN),Finland,4,Los Angeles,United States,2,1984
+6,(SWE),Sweden,2,Los Angeles,United States,11,1984
+1,(MEX),Mexico,2,Los Angeles,United States,3,1984
+0,(MAR),Morocco,2,Los Angeles,United States,0,1984
+2,(BRA),Brazil,1,Los Angeles,United States,5,1984
+2,(ESP),Spain,1,Los Angeles,United States,2,1984
+2,(BEL),Belgium,1,Los Angeles,United States,1,1984
+1,(AUT),Austria,1,Los Angeles,United States,1,1984
+2,(KEN),Kenya,1,Los Angeles,United States,0,1984
+2,(POR),Portugal,1,Los Angeles,United States,0,1984
+0,(PAK),Pakistan,1,Los Angeles,United States,0,1984
+4,(SUI),Switzerland,0,Los Angeles,United States,4,1984
+3,(DEN),Denmark,0,Los Angeles,United States,3,1984
+2,(JAM),Jamaica,0,Los Angeles,United States,1,1984
+2,(NOR),Norway,0,Los Angeles,United States,1,1984
+1,(GRE),Greece,0,Los Angeles,United States,1,1984
+1,(NGR),Nigeria,0,Los Angeles,United States,1,1984
+1,(PUR),Puerto Rico,0,Los Angeles,United States,1,1984
+0,(COL),Colombia,0,Los Angeles,United States,1,1984
+0,(EGY),Egypt,0,Los Angeles,United States,1,1984
+0,(IRL),Ireland,0,Los Angeles,United States,1,1984
+0,(CIV),Ivory Coast,0,Los Angeles,United States,1,1984
+0,(PER),Peru,0,Los Angeles,United States,1,1984
+0,(SYR),Syria,0,Los Angeles,United States,1,1984
+0,(THA),Thailand,0,Los Angeles,United States,1,1984
+3,(TUR),Turkey,0,Los Angeles,United States,0,1984
+3,(VEN),Venezuela,0,Los Angeles,United States,0,1984
+2,(ALG),Algeria,0,Los Angeles,United States,0,1984
+1,(CMR),Cameroon,0,Los Angeles,United States,0,1984
+1,(TPE),Chinese Taipei,0,Los Angeles,United States,0,1984
+1,(DOM),Dominican Republic,0,Los Angeles,United States,0,1984
+1,(ISL),Iceland,0,Los Angeles,United States,0,1984
+1,(ZAM),Zambia,0,Los Angeles,United States,0,1984
+46,(URS),Soviet Union,80,Moscow,Soviet Union,69,1980
+42,(GDR),East Germany,47,Moscow,Soviet Union,37,1980
+17,(BUL),Bulgaria,8,Moscow,Soviet Union,16,1980
+5,(CUB),Cuba,8,Moscow,Soviet Union,7,1980
+4,(ITA),Italy,8,Moscow,Soviet Union,3,1980
+15,(HUN),Hungary,7,Moscow,Soviet Union,10,1980
+13,(ROU),Romania,6,Moscow,Soviet Union,6,1980
+3,(FRA),France,6,Moscow,Soviet Union,5,1980
+9,(GBR),Great Britain,5,Moscow,Soviet Union,7,1980
+15,(POL),Poland,3,Moscow,Soviet Union,14,1980
+6,(SWE),Sweden,3,Moscow,Soviet Union,3,1980
+4,(FIN),Finland,3,Moscow,Soviet Union,1,1980
+9,(TCH),Czechoslovakia,2,Moscow,Soviet Union,3,1980
+4,(YUG),Yugoslavia,2,Moscow,Soviet Union,3,1980
+5,(AUS),Australia,2,Moscow,Soviet Union,2,1980
+2,(DEN),Denmark,2,Moscow,Soviet Union,1,1980
+2,(BRA),Brazil,2,Moscow,Soviet Union,0,1980
+2,(ETH),Ethiopia,2,Moscow,Soviet Union,0,1980
+0,(SUI),Switzerland,2,Moscow,Soviet Union,0,1980
+2,(ESP),Spain,1,Moscow,Soviet Union,3,1980
+1,(AUT),Austria,1,Moscow,Soviet Union,2,1980
+2,(GRE),Greece,1,Moscow,Soviet Union,0,1980
+0,(BEL),Belgium,1,Moscow,Soviet Union,0,1980
+0,(IND),India,1,Moscow,Soviet Union,0,1980
+0,(ZIM),Zimbabwe,1,Moscow,Soviet Union,0,1980
+2,(PRK),North Korea,0,Moscow,Soviet Union,3,1980
+2,(MGL),Mongolia,0,Moscow,Soviet Union,2,1980
+0,(TAN),Tanzania,0,Moscow,Soviet Union,2,1980
+3,(MEX),Mexico,0,Moscow,Soviet Union,1,1980
+2,(NED),Netherlands,0,Moscow,Soviet Union,1,1980
+1,(IRL),Ireland,0,Moscow,Soviet Union,1,1980
+0,(UGA),Uganda,0,Moscow,Soviet Union,1,1980
+0,(VEN),Venezuela,0,Moscow,Soviet Union,1,1980
+3,(JAM),Jamaica,0,Moscow,Soviet Union,0,1980
+1,(GUY),Guyana,0,Moscow,Soviet Union,0,1980
+1,(LIB),Lebanon,0,Moscow,Soviet Union,0,1980
+35,(URS),Soviet Union,49,Montreal,Canada,41,1976
+25,(GDR),East Germany,40,Montreal,Canada,25,1976
+25,(USA),United States,34,Montreal,Canada,35,1976
+17,(FRG),West Germany,10,Montreal,Canada,12,1976
+10,(JPN),Japan,9,Montreal,Canada,6,1976
+13,(POL),Poland,7,Montreal,Canada,6,1976
+7,(BUL),Bulgaria,6,Montreal,Canada,9,1976
+3,(CUB),Cuba,6,Montreal,Canada,4,1976
+14,(ROU),Romania,4,Montreal,Canada,9,1976
+13,(HUN),Hungary,4,Montreal,Canada,5,1976
+0,(FIN),Finland,4,Montreal,Canada,2,1976
+0,(SWE),Sweden,4,Montreal,Canada,1,1976
+5,(GBR),Great Britain,3,Montreal,Canada,5,1976
+4,(ITA),Italy,2,Montreal,Canada,7,1976
+4,(FRA),France,2,Montreal,Canada,3,1976
+3,(YUG),Yugoslavia,2,Montreal,Canada,3,1976
+4,(TCH),Czechoslovakia,2,Montreal,Canada,2,1976
+1,(NZL),New Zealand,2,Montreal,Canada,1,1976
+4,(KOR),South Korea,1,Montreal,Canada,1,1976
+2,(SUI),Switzerland,1,Montreal,Canada,1,1976
+0,(JAM),Jamaica,1,Montreal,Canada,1,1976
+0,(PRK),North Korea,1,Montreal,Canada,1,1976
+0,(NOR),Norway,1,Montreal,Canada,1,1976
+2,(DEN),Denmark,1,Montreal,Canada,0,1976
+1,(MEX),Mexico,1,Montreal,Canada,0,1976
+0,(TRI),Trinidad and Tobago,1,Montreal,Canada,0,1976
+6,(CAN),Canada,0,Montreal,Canada,5,1976
+3,(BEL),Belgium,0,Montreal,Canada,3,1976
+3,(NED),Netherlands,0,Montreal,Canada,2,1976
+0,(POR),Portugal,0,Montreal,Canada,2,1976
+0,(ESP),Spain,0,Montreal,Canada,2,1976
+4,(AUS),Australia,0,Montreal,Canada,1,1976
+1,(IRI),Iran,0,Montreal,Canada,1,1976
+0,(MGL),Mongolia,0,Montreal,Canada,1,1976
+0,(VEN),Venezuela,0,Montreal,Canada,1,1976
+2,(BRA),Brazil,0,Montreal,Canada,0,1976
+1,(AUT),Austria,0,Montreal,Canada,0,1976
+1,(BER),Bermuda,0,Montreal,Canada,0,1976
+1,(PAK),Pakistan,0,Montreal,Canada,0,1976
+1,(PUR),Puerto Rico,0,Montreal,Canada,0,1976
+1,(THA),Thailand,0,Montreal,Canada,0,1976
+22,(URS),Soviet Union,50,Munich,West Germany,27,1972
+30,(USA),United States,33,Munich,West Germany,31,1972
+23,(GDR),East Germany,20,Munich,West Germany,23,1972
+16,(FRG),West Germany,13,Munich,West Germany,11,1972
+8,(JPN),Japan,13,Munich,West Germany,8,1972
+2,(AUS),Australia,8,Munich,West Germany,7,1972
+9,(POL),Poland,7,Munich,West Germany,5,1972
+16,(HUN),Hungary,6,Munich,West Germany,13,1972
+5,(BUL),Bulgaria,6,Munich,West Germany,10,1972
+10,(ITA),Italy,5,Munich,West Germany,3,1972
+6,(SWE),Sweden,4,Munich,West Germany,6,1972
+9,(GBR),Great Britain,4,Munich,West Germany,5,1972
+7,(ROU),Romania,3,Munich,West Germany,6,1972
+4,(CUB),Cuba,3,Munich,West Germany,1,1972
+4,(FIN),Finland,3,Munich,West Germany,1,1972
+1,(NED),Netherlands,3,Munich,West Germany,1,1972
+7,(FRA),France,2,Munich,West Germany,4,1972
+2,(TCH),Czechoslovakia,2,Munich,West Germany,4,1972
+4,(KEN),Kenya,2,Munich,West Germany,3,1972
+2,(YUG),Yugoslavia,2,Munich,West Germany,1,1972
+1,(NOR),Norway,2,Munich,West Germany,1,1972
+3,(PRK),North Korea,1,Munich,West Germany,1,1972
+1,(NZL),New Zealand,1,Munich,West Germany,1,1972
+0,(UGA),Uganda,1,Munich,West Germany,1,1972
+0,(DEN),Denmark,1,Munich,West Germany,0,1972
+0,(SUI),Switzerland,0,Munich,West Germany,3,1972
+3,(CAN),Canada,0,Munich,West Germany,2,1972
+1,(IRI),Iran,0,Munich,West Germany,2,1972
+0,(BEL),Belgium,0,Munich,West Germany,2,1972
+0,(GRE),Greece,0,Munich,West Germany,2,1972
+2,(AUT),Austria,0,Munich,West Germany,1,1972
+2,(COL),Colombia,0,Munich,West Germany,1,1972
+0,(ARG),Argentina,0,Munich,West Germany,1,1972
+0,(LIB),Lebanon,0,Munich,West Germany,1,1972
+0,(MEX),Mexico,0,Munich,West Germany,1,1972
+0,(MGL),Mongolia,0,Munich,West Germany,1,1972
+0,(PAK),Pakistan,0,Munich,West Germany,1,1972
+0,(KOR),South Korea,0,Munich,West Germany,1,1972
+0,(TUN),Tunisia,0,Munich,West Germany,1,1972
+0,(TUR),Turkey,0,Munich,West Germany,1,1972
+2,(BRA),Brazil,0,Munich,West Germany,0,1972
+2,(ETH),Ethiopia,0,Munich,West Germany,0,1972
+1,(GHA),Ghana,0,Munich,West Germany,0,1972
+1,(IND),India,0,Munich,West Germany,0,1972
+1,(JAM),Jamaica,0,Munich,West Germany,0,1972
+1,(NIG),Niger,0,Munich,West Germany,0,1972
+1,(NGR),Nigeria,0,Munich,West Germany,0,1972
+1,(ESP),Spain,0,Munich,West Germany,0,1972
+34,(USA),United States,45,Mexico City,Mexico,28,1968
+30,(URS),Soviet Union,29,Mexico City,Mexico,32,1968
+7,(JPN),Japan,11,Mexico City,Mexico,7,1968
+12,(HUN),Hungary,10,Mexico City,Mexico,10,1968
+7,(GDR),East Germany,9,Mexico City,Mexico,9,1968
+5,(FRA),France,7,Mexico City,Mexico,3,1968
+4,(TCH),Czechoslovakia,7,Mexico City,Mexico,2,1968
+10,(FRG),West Germany,5,Mexico City,Mexico,11,1968
+5,(AUS),Australia,5,Mexico City,Mexico,7,1968
+3,(GBR),Great Britain,5,Mexico City,Mexico,5,1968
+11,(POL),Poland,5,Mexico City,Mexico,2,1968
+5,(ROU),Romania,4,Mexico City,Mexico,6,1968
+9,(ITA),Italy,3,Mexico City,Mexico,4,1968
+2,(KEN),Kenya,3,Mexico City,Mexico,4,1968
+3,(MEX),Mexico,3,Mexico City,Mexico,3,1968
+2,(YUG),Yugoslavia,3,Mexico City,Mexico,3,1968
+1,(NED),Netherlands,3,Mexico City,Mexico,3,1968
+3,(BUL),Bulgaria,2,Mexico City,Mexico,4,1968
+2,(IRI),Iran,2,Mexico City,Mexico,1,1968
+1,(SWE),Sweden,2,Mexico City,Mexico,1,1968
+0,(TUR),Turkey,2,Mexico City,Mexico,0,1968
+3,(DEN),Denmark,1,Mexico City,Mexico,4,1968
+1,(CAN),Canada,1,Mexico City,Mexico,3,1968
+1,(FIN),Finland,1,Mexico City,Mexico,2,1968
+0,(ETH),Ethiopia,1,Mexico City,Mexico,1,1968
+0,(NOR),Norway,1,Mexico City,Mexico,1,1968
+2,(NZL),New Zealand,1,Mexico City,Mexico,0,1968
+1,(TUN),Tunisia,1,Mexico City,Mexico,0,1968
+0,(PAK),Pakistan,1,Mexico City,Mexico,0,1968
+0,(VEN),Venezuela,1,Mexico City,Mexico,0,1968
+0,(CUB),Cuba,0,Mexico City,Mexico,4,1968
+2,(AUT),Austria,0,Mexico City,Mexico,2,1968
+4,(SUI),Switzerland,0,Mexico City,Mexico,1,1968
+3,(MGL),Mongolia,0,Mexico City,Mexico,1,1968
+2,(BRA),Brazil,0,Mexico City,Mexico,1,1968
+1,(BEL),Belgium,0,Mexico City,Mexico,1,1968
+1,(KOR),South Korea,0,Mexico City,Mexico,1,1968
+1,(UGA),Uganda,0,Mexico City,Mexico,1,1968
+0,(CMR),Cameroon,0,Mexico City,Mexico,1,1968
+0,(JAM),Jamaica,0,Mexico City,Mexico,1,1968
+2,(ARG),Argentina,0,Mexico City,Mexico,0,1968
+1,(GRE),Greece,0,Mexico City,Mexico,0,1968
+1,(IND),India,0,Mexico City,Mexico,0,1968
+1,(ROC),Republic of China,0,Mexico City,Mexico,0,1968
+28,(USA),United States,36,Tokyo,Japan,26,1964
+35,(URS),Soviet Union,30,Tokyo,Japan,31,1964
+8,(JPN),Japan,16,Tokyo,Japan,5,1964
+18,(EUA),United Team of Germany,10,Tokyo,Japan,22,1964
+7,(ITA),Italy,10,Tokyo,Japan,10,1964
+5,(HUN),Hungary,10,Tokyo,Japan,7,1964
+10,(POL),Poland,7,Tokyo,Japan,6,1964
+10,(AUS),Australia,6,Tokyo,Japan,2,1964
+3,(TCH),Czechoslovakia,5,Tokyo,Japan,6,1964
+2,(GBR),Great Britain,4,Tokyo,Japan,12,1964
+2,(BUL),Bulgaria,3,Tokyo,Japan,5,1964
+2,(FIN),Finland,3,Tokyo,Japan,0,1964
+2,(NZL),New Zealand,3,Tokyo,Japan,0,1964
+6,(ROU),Romania,2,Tokyo,Japan,4,1964
+4,(NED),Netherlands,2,Tokyo,Japan,4,1964
+1,(TUR),Turkey,2,Tokyo,Japan,3,1964
+4,(SWE),Sweden,2,Tokyo,Japan,2,1964
+3,(DEN),Denmark,2,Tokyo,Japan,1,1964
+2,(YUG),Yugoslavia,2,Tokyo,Japan,1,1964
+1,(BEL),Belgium,2,Tokyo,Japan,0,1964
+6,(FRA),France,1,Tokyo,Japan,8,1964
+1,(CAN),Canada,1,Tokyo,Japan,2,1964
+1,(SUI),Switzerland,1,Tokyo,Japan,2,1964
+0,(BAH),Bahamas,1,Tokyo,Japan,0,1964
+0,(ETH),Ethiopia,1,Tokyo,Japan,0,1964
+0,(IND),India,1,Tokyo,Japan,0,1964
+1,(KOR),South Korea,0,Tokyo,Japan,2,1964
+2,(TRI),Trinidad and Tobago,0,Tokyo,Japan,1,1964
+1,(TUN),Tunisia,0,Tokyo,Japan,1,1964
+0,(ARG),Argentina,0,Tokyo,Japan,1,1964
+0,(CUB),Cuba,0,Tokyo,Japan,1,1964
+0,(PAK),Pakistan,0,Tokyo,Japan,1,1964
+0,(PHI),Philippines,0,Tokyo,Japan,1,1964
+2,(IRI),Iran,0,Tokyo,Japan,0,1964
+1,(BRA),Brazil,0,Tokyo,Japan,0,1964
+1,(GHA),Ghana,0,Tokyo,Japan,0,1964
+1,(IRL),Ireland,0,Tokyo,Japan,0,1964
+1,(KEN),Kenya,0,Tokyo,Japan,0,1964
+1,(MEX),Mexico,0,Tokyo,Japan,0,1964
+1,(NGR),Nigeria,0,Tokyo,Japan,0,1964
+1,(URU),Uruguay,0,Tokyo,Japan,0,1964
+31,(URS),Soviet Union,43,Rome,Italy,29,1960
+16,(USA),United States,34,Rome,Italy,21,1960
+13,(ITA),Italy,13,Rome,Italy,10,1960
+11,(EUA),United Team of Germany,12,Rome,Italy,19,1960
+6,(AUS),Australia,8,Rome,Italy,8,1960
+0,(TUR),Turkey,7,Rome,Italy,2,1960
+7,(HUN),Hungary,6,Rome,Italy,8,1960
+7,(JPN),Japan,4,Rome,Italy,7,1960
+11,(POL),Poland,4,Rome,Italy,6,1960
+3,(TCH),Czechoslovakia,3,Rome,Italy,2,1960
+6,(ROU),Romania,3,Rome,Italy,1,1960
+12,(GBR),Great Britain,2,Rome,Italy,6,1960
+1,(DEN),Denmark,2,Rome,Italy,3,1960
+1,(NZL),New Zealand,2,Rome,Italy,0,1960
+3,(BUL),Bulgaria,1,Rome,Italy,3,1960
+3,(SWE),Sweden,1,Rome,Italy,2,1960
+3,(FIN),Finland,1,Rome,Italy,1,1960
+0,(AUT),Austria,1,Rome,Italy,1,1960
+0,(YUG),Yugoslavia,1,Rome,Italy,1,1960
+1,(PAK),Pakistan,1,Rome,Italy,0,1960
+0,(ETH),Ethiopia,1,Rome,Italy,0,1960
+0,(GRE),Greece,1,Rome,Italy,0,1960
+0,(NOR),Norway,1,Rome,Italy,0,1960
+3,(SUI),Switzerland,0,Rome,Italy,3,1960
+3,(FRA),France,0,Rome,Italy,2,1960
+2,(BEL),Belgium,0,Rome,Italy,2,1960
+3,(IRI),Iran,0,Rome,Italy,1,1960
+2,(NED),Netherlands,0,Rome,Italy,1,1960
+2,(RSA),South Africa,0,Rome,Italy,1,1960
+1,(ARG),Argentina,0,Rome,Italy,1,1960
+1,(EGY),Egypt,0,Rome,Italy,1,1960
+0,(CAN),Canada,0,Rome,Italy,1,1960
+0,(GHA),Ghana,0,Rome,Italy,1,1960
+0,(IND),India,0,Rome,Italy,1,1960
+0,(MAR),Morocco,0,Rome,Italy,1,1960
+0,(POR),Portugal,0,Rome,Italy,1,1960
+0,(ROC),Republic of China,0,Rome,Italy,1,1960
+0,(SIN),Singapore,0,Rome,Italy,1,1960
+2,(BRA),Brazil,0,Rome,Italy,0,1960
+2,(BWI),British West Indies,0,Rome,Italy,0,1960
+1,(IRQ),Iraq,0,Rome,Italy,0,1960
+1,(MEX),Mexico,0,Rome,Italy,0,1960
+1,(ESP),Spain,0,Rome,Italy,0,1960
+1,(VEN),Venezuela,0,Rome,Italy,0,1960
+33,(USA),United States,39,Tokyo,Japan,41,2020
+18,(CHN),China,38,Tokyo,Japan,32,2020
+17,(JPN),Japan,27,Tokyo,Japan,14,2020
+22,(GBR),Great Britain,22,Tokyo,Japan,21,2020
+23,(ROC),ROC,20,Tokyo,Japan,28,2020
+22,(AUS),Australia,17,Tokyo,Japan,7,2020
+14,(NED),Netherlands,10,Tokyo,Japan,12,2020
+11,(FRA),France,10,Tokyo,Japan,12,2020
+16,(GER),Germany,10,Tokyo,Japan,11,2020
+20,(ITA),Italy,10,Tokyo,Japan,10,2020
+11,(CAN),Canada,7,Tokyo,Japan,6,2020
+8,(BRA),Brazil,7,Tokyo,Japan,6,2020
+7,(NZL),New Zealand,7,Tokyo,Japan,6,2020
+5,(CUB),Cuba,7,Tokyo,Japan,3,2020
+7,(HUN),Hungary,6,Tokyo,Japan,7,2020
+10,(KOR),South Korea,6,Tokyo,Japan,4,2020
+5,(POL),Poland,4,Tokyo,Japan,5,2020
+3,(CZE),Czech Republic,4,Tokyo,Japan,4,2020
+2,(KEN),Kenya,4,Tokyo,Japan,4,2020
+2,(NOR),Norway,4,Tokyo,Japan,2,2020
+4,(JAM),Jamaica,4,Tokyo,Japan,1,2020
+6,(ESP),Spain,3,Tokyo,Japan,8,2020
+0,(SWE),Sweden,3,Tokyo,Japan,6,2020
+6,(SUI),Switzerland,3,Tokyo,Japan,4,2020
+4,(DEN),Denmark,3,Tokyo,Japan,4,2020
+2,(CRO),Croatia,3,Tokyo,Japan,3,2020
+2,(IRI),Iran,3,Tokyo,Japan,2,2020
+5,(SRB),Serbia,3,Tokyo,Japan,1,2020
+3,(BEL),Belgium,3,Tokyo,Japan,1,2020
+2,(BUL),Bulgaria,3,Tokyo,Japan,1,2020
+1,(SLO),Slovenia,3,Tokyo,Japan,1,2020
+2,(UZB),Uzbekistan,3,Tokyo,Japan,0,2020
+1,(GEO),Georgia,2,Tokyo,Japan,5,2020
+6,(TPE),Chinese Taipei,2,Tokyo,Japan,4,2020
+9,(TUR),Turkey,2,Tokyo,Japan,2,2020
+1,(GRE),Greece,2,Tokyo,Japan,1,2020
+1,(UGA),Uganda,2,Tokyo,Japan,1,2020
+0,(ECU),Ecuador,2,Tokyo,Japan,1,2020
+2,(IRL),Ireland,2,Tokyo,Japan,0,2020
+2,(ISR),Israel,2,Tokyo,Japan,0,2020
+1,(QAT),Qatar,2,Tokyo,Japan,0,2020
+0,(BAH),Bahamas,2,Tokyo,Japan,0,2020
+0,(KOS),Kosovo,2,Tokyo,Japan,0,2020
+12,(UKR),Ukraine,1,Tokyo,Japan,6,2020
+3,(BLR),Belarus,1,Tokyo,Japan,3,2020
+0,(ROU),Romania,1,Tokyo,Japan,3,2020
+0,(VEN),Venezuela,1,Tokyo,Japan,3,2020
+4,(IND),India,1,Tokyo,Japan,2,2020
+3,(HKG),Hong Kong,1,Tokyo,Japan,2,2020
+1,(PHI),Philippines,1,Tokyo,Japan,2,2020
+1,(SVK),Slovakia,1,Tokyo,Japan,2,2020
+0,(RSA),South Africa,1,Tokyo,Japan,2,2020
+5,(AUT),Austria,1,Tokyo,Japan,1,2020
+4,(EGY),Egypt,1,Tokyo,Japan,1,2020
+3,(INA),Indonesia,1,Tokyo,Japan,1,2020
+2,(ETH),Ethiopia,1,Tokyo,Japan,1,2020
+2,(POR),Portugal,1,Tokyo,Japan,1,2020
+0,(TUN),Tunisia,1,Tokyo,Japan,1,2020
+1,(EST),Estonia,1,Tokyo,Japan,0,2020
+1,(FIJ),Fiji,1,Tokyo,Japan,0,2020
+1,(LAT),Latvia,1,Tokyo,Japan,0,2020
+1,(THA),Thailand,1,Tokyo,Japan,0,2020
+0,(BER),Bermuda,1,Tokyo,Japan,0,2020
+0,(MAR),Morocco,1,Tokyo,Japan,0,2020
+0,(PUR),Puerto Rico,1,Tokyo,Japan,0,2020
+1,(COL),Colombia,0,Tokyo,Japan,4,2020
+4,(AZE),Azerbaijan,0,Tokyo,Japan,3,2020
+2,(DOM),Dominican Republic,0,Tokyo,Japan,3,2020
+2,(ARM),Armenia,0,Tokyo,Japan,2,2020
+1,(KGZ),Kyrgyzstan,0,Tokyo,Japan,2,2020
+3,(MGL),Mongolia,0,Tokyo,Japan,1,2020
+2,(ARG),Argentina,0,Tokyo,Japan,1,2020
+2,(SMR),San Marino,0,Tokyo,Japan,1,2020
+1,(JOR),Jordan,0,Tokyo,Japan,1,2020
+1,(MAS),Malaysia,0,Tokyo,Japan,1,2020
+1,(NGR),Nigeria,0,Tokyo,Japan,1,2020
+0,(BRN),Bahrain,0,Tokyo,Japan,1,2020
+0,(LTU),Lithuania,0,Tokyo,Japan,1,2020
+0,(NAM),Namibia,0,Tokyo,Japan,1,2020
+0,(MKD),North Macedonia,0,Tokyo,Japan,1,2020
+0,(KSA),Saudi Arabia,0,Tokyo,Japan,1,2020
+0,(TKM),Turkmenistan,0,Tokyo,Japan,1,2020
+8,(KAZ),Kazakhstan,0,Tokyo,Japan,0,2020
+4,(MEX),Mexico,0,Tokyo,Japan,0,2020
+2,(FIN),Finland,0,Tokyo,Japan,0,2020
+1,(BOT),Botswana,0,Tokyo,Japan,0,2020
+1,(BUR),Burkina Faso,0,Tokyo,Japan,0,2020
+1,(GHA),Ghana,0,Tokyo,Japan,0,2020
+1,(GRN),Grenada,0,Tokyo,Japan,0,2020
+1,(CIV),Ivory Coast,0,Tokyo,Japan,0,2020
+1,(KUW),Kuwait,0,Tokyo,Japan,0,2020
+1,(MDA),Moldova,0,Tokyo,Japan,0,2020
+1,(SYR),Syria,0,Tokyo,Japan,0,2020
+38,,United States,46,Rio de Janeiro,Brazil,37,2016
+17,,Great Britain,27,Rio de Janeiro,Brazil,23,2016
+26,,China,26,Rio de Janeiro,Brazil,18,2016
+20,,Russia,19,Rio de Janeiro,Brazil,17,2016
+15,,Germany,17,Rio de Janeiro,Brazil,10,2016
+21,,Japan,12,Rio de Janeiro,Brazil,8,2016
+14,,France,10,Rio de Janeiro,Brazil,18,2016
+9,,South Korea,9,Rio de Janeiro,Brazil,3,2016
+8,,Italy,8,Rio de Janeiro,Brazil,12,2016
+10,,Australia,8,Rio de Janeiro,Brazil,11,2016
+4,,Netherlands,8,Rio de Janeiro,Brazil,7,2016
+4,,Hungary,8,Rio de Janeiro,Brazil,3,2016
+6,,Brazil,7,Rio de Janeiro,Brazil,6,2016
+6,,Spain,7,Rio de Janeiro,Brazil,4,2016
+1,,Kenya,6,Rio de Janeiro,Brazil,6,2016
+2,,Jamaica,6,Rio de Janeiro,Brazil,3,2016
+2,,Croatia,5,Rio de Janeiro,Brazil,3,2016
+4,,Cuba,5,Rio de Janeiro,Brazil,2,2016
+5,,New Zealand,4,Rio de Janeiro,Brazil,9,2016
+15,,Canada,4,Rio de Janeiro,Brazil,3,2016
+7,,Uzbekistan,4,Rio de Janeiro,Brazil,2,2016
+10,,Kazakhstan,3,Rio de Janeiro,Brazil,5,2016
+3,,Colombia,3,Rio de Janeiro,Brazil,2,2016
+2,,Switzerland,3,Rio de Janeiro,Brazil,2,2016
+4,,Iran,3,Rio de Janeiro,Brazil,1,2016
+2,,Greece,3,Rio de Janeiro,Brazil,1,2016
+0,,Argentina,3,Rio de Janeiro,Brazil,1,2016
+7,,Denmark,2,Rio de Janeiro,Brazil,6,2016
+3,,Sweden,2,Rio de Janeiro,Brazil,6,2016
+2,,South Africa,2,Rio de Janeiro,Brazil,6,2016
+4,,Ukraine,2,Rio de Janeiro,Brazil,5,2016
+2,,Serbia,2,Rio de Janeiro,Brazil,4,2016
+6,,Poland,2,Rio de Janeiro,Brazil,3,2016
+2,,North Korea,2,Rio de Janeiro,Brazil,3,2016
+2,,Belgium,2,Rio de Janeiro,Brazil,2,2016
+2,,Thailand,2,Rio de Janeiro,Brazil,2,2016
+0,,Slovakia,2,Rio de Janeiro,Brazil,2,2016
+4,,Georgia,2,Rio de Janeiro,Brazil,1,2016
+10,,Azerbaijan,1,Rio de Janeiro,Brazil,7,2016
+4,,Belarus,1,Rio de Janeiro,Brazil,4,2016
+4,,Turkey,1,Rio de Janeiro,Brazil,3,2016
+0,,Armenia,1,Rio de Janeiro,Brazil,3,2016
+7,,Czech Republic,1,Rio de Janeiro,Brazil,2,2016
+5,,Ethiopia,1,Rio de Janeiro,Brazil,2,2016
+1,,Slovenia,1,Rio de Janeiro,Brazil,2,2016
+0,,Indonesia,1,Rio de Janeiro,Brazil,2,2016
+2,,Romania,1,Rio de Janeiro,Brazil,1,2016
+0,,Bahrain,1,Rio de Janeiro,Brazil,1,2016
+0,,Vietnam,1,Rio de Janeiro,Brazil,1,2016
+2,,Chinese Taipei,1,Rio de Janeiro,Brazil,0,2016
+1,,Bahamas,1,Rio de Janeiro,Brazil,0,2016
+1,,Independent Olympic Athletes,1,Rio de Janeiro,Brazil,0,2016
+1,,Ivory Coast,1,Rio de Janeiro,Brazil,0,2016
+0,,Fiji,1,Rio de Janeiro,Brazil,0,2016
+0,,Jordan,1,Rio de Janeiro,Brazil,0,2016
+0,,Kosovo,1,Rio de Janeiro,Brazil,0,2016
+0,,Puerto Rico,1,Rio de Janeiro,Brazil,0,2016
+0,,Singapore,1,Rio de Janeiro,Brazil,0,2016
+0,,Tajikistan,1,Rio de Janeiro,Brazil,0,2016
+1,,Malaysia,0,Rio de Janeiro,Brazil,4,2016
+2,,Mexico,0,Rio de Janeiro,Brazil,3,2016
+1,,Venezuela,0,Rio de Janeiro,Brazil,2,2016
+0,,Algeria,0,Rio de Janeiro,Brazil,2,2016
+0,,Ireland,0,Rio de Janeiro,Brazil,2,2016
+3,,Lithuania,0,Rio de Janeiro,Brazil,1,2016
+2,,Bulgaria,0,Rio de Janeiro,Brazil,1,2016
+1,,India,0,Rio de Janeiro,Brazil,1,2016
+1,,Mongolia,0,Rio de Janeiro,Brazil,1,2016
+0,,Burundi,0,Rio de Janeiro,Brazil,1,2016
+0,,Grenada,0,Rio de Janeiro,Brazil,1,2016
+0,,Niger,0,Rio de Janeiro,Brazil,1,2016
+0,,Philippines,0,Rio de Janeiro,Brazil,1,2016
+0,,Qatar,0,Rio de Janeiro,Brazil,1,2016
+4,,Norway,0,Rio de Janeiro,Brazil,0,2016
+3,,Egypt,0,Rio de Janeiro,Brazil,0,2016
+3,,Tunisia,0,Rio de Janeiro,Brazil,0,2016
+2,,Israel,0,Rio de Janeiro,Brazil,0,2016
+1,,Austria,0,Rio de Janeiro,Brazil,0,2016
+1,,Dominican Republic,0,Rio de Janeiro,Brazil,0,2016
+1,,Estonia,0,Rio de Janeiro,Brazil,0,2016
+1,,Finland,0,Rio de Janeiro,Brazil,0,2016
+1,,Morocco,0,Rio de Janeiro,Brazil,0,2016
+1,,Nigeria,0,Rio de Janeiro,Brazil,0,2016
+1,,Portugal,0,Rio de Janeiro,Brazil,0,2016
+1,,Trinidad and Tobago,0,Rio de Janeiro,Brazil,0,2016
+1,,United Arab Emirates,0,Rio de Janeiro,Brazil,0,2016
+30,(USA),United States,46,London,Great Britain,28,2012
+22,(CHN),China,38,London,Great Britain,31,2012
+19,(GBR),Great Britain,29,London,Great Britain,17,2012
+28,(RUS),Russia,20,London,Great Britain,20,2012
+8,(KOR),South Korea,13,London,Great Britain,9,2012
+13,(GER),Germany,11,London,Great Britain,20,2012
+13,(FRA),France,11,London,Great Britain,11,2012
+12,(AUS),Australia,8,London,Great Britain,15,2012
+11,(ITA),Italy,8,London,Great Britain,9,2012
+6,(HUN),Hungary,8,London,Great Britain,4,2012
+17,(JPN),Japan,7,London,Great Britain,14,2012
+1,(IRI),Iran,7,London,Great Britain,5,2012
+8,(NED),Netherlands,6,London,Great Britain,6,2012
+5,(NZL),New Zealand,6,London,Great Britain,2,2012
+10,(UKR),Ukraine,5,London,Great Britain,4,2012
+7,(CUB),Cuba,5,London,Great Britain,3,2012
+5,(ESP),Spain,4,London,Great Britain,10,2012
+3,(JAM),Jamaica,4,London,Great Britain,5,2012
+4,(CZE),Czech Republic,4,London,Great Britain,3,2012
+1,(RSA),South Africa,4,London,Great Britain,1,2012
+3,(PRK),North Korea,4,London,Great Britain,0,2012
+9,(BRA),Brazil,3,London,Great Britain,5,2012
+6,(POL),Poland,3,London,Great Britain,2,2012
+3,(ETH),Ethiopia,3,London,Great Britain,2,2012
+7,(KAZ),Kazakhstan,3,London,Great Britain,1,2012
+2,(CRO),Croatia,3,London,Great Britain,1,2012
+10,(CAN),Canada,2,London,Great Britain,6,2012
+3,(BLR),Belarus,2,London,Great Britain,5,2012
+7,(KEN),Kenya,2,London,Great Britain,4,2012
+3,(DEN),Denmark,2,London,Great Britain,4,2012
+1,(ROU),Romania,2,London,Great Britain,4,2012
+5,(AZE),Azerbaijan,2,London,Great Britain,2,2012
+0,(SUI),Switzerland,2,London,Great Britain,2,2012
+1,(NOR),Norway,2,London,Great Britain,1,2012
+3,(LTU),Lithuania,2,London,Great Britain,0,2012
+1,(TUN),Tunisia,2,London,Great Britain,0,2012
+3,(SWE),Sweden,1,London,Great Britain,4,2012
+5,(COL),Colombia,1,London,Great Britain,3,2012
+4,(MEX),Mexico,1,London,Great Britain,3,2012
+3,(GEO),Georgia,1,London,Great Britain,2,2012
+4,(IRL),Ireland,1,London,Great Britain,1,2012
+2,(ARG),Argentina,1,London,Great Britain,1,2012
+2,(SRB),Serbia,1,London,Great Britain,1,2012
+2,(SLO),Slovenia,1,London,Great Britain,1,2012
+2,(TRI),Trinidad and Tobago,1,London,Great Britain,1,2012
+1,(TUR),Turkey,1,London,Great Britain,1,2012
+0,(DOM),Dominican Republic,1,London,Great Britain,1,2012
+1,(TPE),Chinese Taipei,1,London,Great Britain,0,2012
+1,(LAT),Latvia,1,London,Great Britain,0,2012
+0,(ALG),Algeria,1,London,Great Britain,0,2012
+0,(BAH),Bahamas,1,London,Great Britain,0,2012
+0,(BRN),Bahrain,1,London,Great Britain,0,2012
+0,(GRN),Grenada,1,London,Great Britain,0,2012
+0,(UGA),Uganda,1,London,Great Britain,0,2012
+0,(VEN),Venezuela,1,London,Great Britain,0,2012
+1,(EGY),Egypt,0,London,Great Britain,3,2012
+4,(IND),India,0,London,Great Britain,2,2012
+3,(MGL),Mongolia,0,London,Great Britain,2,2012
+2,(THA),Thailand,0,London,Great Britain,2,2012
+1,(BUL),Bulgaria,0,London,Great Britain,2,2012
+1,(FIN),Finland,0,London,Great Britain,2,2012
+1,(INA),Indonesia,0,London,Great Britain,2,2012
+3,(SVK),Slovakia,0,London,Great Britain,1,2012
+2,(BEL),Belgium,0,London,Great Britain,1,2012
+1,(ARM),Armenia,0,London,Great Britain,1,2012
+1,(EST),Estonia,0,London,Great Britain,1,2012
+1,(MAS),Malaysia,0,London,Great Britain,1,2012
+1,(PUR),Puerto Rico,0,London,Great Britain,1,2012
+0,(BOT),Botswana,0,London,Great Britain,1,2012
+0,(CYP),Cyprus,0,London,Great Britain,1,2012
+0,(GAB),Gabon,0,London,Great Britain,1,2012
+0,(GUA),Guatemala,0,London,Great Britain,1,2012
+0,(MNE),Montenegro,0,London,Great Britain,1,2012
+0,(POR),Portugal,0,London,Great Britain,1,2012
+3,(UZB),Uzbekistan,0,London,Great Britain,0,2012
+2,(GRE),Greece,0,London,Great Britain,0,2012
+2,(QAT),Qatar,0,London,Great Britain,0,2012
+2,(SIN),Singapore,0,London,Great Britain,0,2012
+1,(AFG),Afghanistan,0,London,Great Britain,0,2012
+1,(CMR),Cameroon,0,London,Great Britain,0,2012
+1,(HKG),Hong Kong,0,London,Great Britain,0,2012
+1,(KUW),Kuwait,0,London,Great Britain,0,2012
+1,(MAR),Morocco,0,London,Great Britain,0,2012
+1,(KSA),Saudi Arabia,0,London,Great Britain,0,2012
+1,(TJK),Tajikistan,0,London,Great Britain,0,2012
+1,(VIE),Vietnam,0,London,Great Britain,0,2012
+30,(CHN),China,48,Beijing,China,22,2008
+37,(USA),United States,36,Beijing,China,39,2008
+23,(RUS),Russia,24,Beijing,China,13,2008
+19,(GBR),Great Britain,19,Beijing,China,13,2008
+14,(GER),Germany,16,Beijing,China,11,2008
+17,(AUS),Australia,14,Beijing,China,15,2008
+8,(KOR),South Korea,13,Beijing,China,11,2008
+8,(JPN),Japan,9,Beijing,China,8,2008
+10,(ITA),Italy,8,Beijing,China,9,2008
+20,(FRA),France,7,Beijing,China,16,2008
+4,(NED),Netherlands,7,Beijing,China,5,2008
+11,(UKR),Ukraine,7,Beijing,China,4,2008
+6,(KEN),Kenya,6,Beijing,China,4,2008
+3,(ESP),Spain,5,Beijing,China,11,2008
+2,(JAM),Jamaica,5,Beijing,China,4,2008
+2,(POL),Poland,4,Beijing,China,5,2008
+1,(ETH),Ethiopia,4,Beijing,China,2,2008
+4,(ROU),Romania,4,Beijing,China,1,2008
+17,(CUB),Cuba,3,Beijing,China,10,2008
+8,(CAN),Canada,3,Beijing,China,9,2008
+2,(HUN),Hungary,3,Beijing,China,5,2008
+1,(NOR),Norway,3,Beijing,China,5,2008
+10,(BRA),Brazil,3,Beijing,China,4,2008
+7,(BLR),Belarus,3,Beijing,China,4,2008
+1,(CZE),Czech Republic,3,Beijing,China,3,2008
+0,(SVK),Slovakia,3,Beijing,China,3,2008
+4,(NZL),New Zealand,3,Beijing,China,2,2008
+2,(GEO),Georgia,3,Beijing,China,2,2008
+4,(KAZ),Kazakhstan,2,Beijing,China,3,2008
+3,(DEN),Denmark,2,Beijing,China,2,2008
+2,(PRK),North Korea,2,Beijing,China,2,2008
+2,(THA),Thailand,2,Beijing,China,2,2008
+0,(MGL),Mongolia,2,Beijing,China,2,2008
+4,(SUI),Switzerland,2,Beijing,China,1,2008
+4,(ARG),Argentina,2,Beijing,China,0,2008
+2,(MEX),Mexico,2,Beijing,China,0,2008
+0,(BEL),Belgium,2,Beijing,China,0,2008
+0,(ZIM),Zimbabwe,1,Beijing,China,3,2008
+2,(SLO),Slovenia,1,Beijing,China,2,2008
+4,(AZE),Azerbaijan,1,Beijing,China,1,2008
+4,(INA),Indonesia,1,Beijing,China,1,2008
+3,(BUL),Bulgaria,1,Beijing,China,1,2008
+3,(TUR),Turkey,1,Beijing,China,1,2008
+2,(TPE),Chinese Taipei,1,Beijing,China,1,2008
+2,(FIN),Finland,1,Beijing,China,1,2008
+1,(LAT),Latvia,1,Beijing,China,1,2008
+0,(DOM),Dominican Republic,1,Beijing,China,1,2008
+0,(EST),Estonia,1,Beijing,China,1,2008
+0,(POR),Portugal,1,Beijing,China,1,2008
+0,(TTO),Trinidad and Tobago,1,Beijing,China,1,2008
+2,(IND),India,1,Beijing,China,0,2008
+1,(IRI),Iran,1,Beijing,China,0,2008
+0,(CMR),Cameroon,1,Beijing,China,0,2008
+0,(PAN),Panama,1,Beijing,China,0,2008
+0,(TUN),Tunisia,1,Beijing,China,0,2008
+1,(SWE),Sweden,0,Beijing,China,4,2008
+2,(LTU),Lithuania,0,Beijing,China,3,2008
+2,(NGR),Nigeria,0,Beijing,China,3,2008
+3,(CRO),Croatia,0,Beijing,China,2,2008
+1,(COL),Colombia,0,Beijing,China,2,2008
+1,(GRE),Greece,0,Beijing,China,2,2008
+4,(ARM),Armenia,0,Beijing,China,1,2008
+3,(UZB),Uzbekistan,0,Beijing,China,1,2008
+2,(AUT),Austria,0,Beijing,China,1,2008
+2,(IRL),Ireland,0,Beijing,China,1,2008
+2,(KGZ),Kyrgyzstan,0,Beijing,China,1,2008
+2,(SRB),Serbia,0,Beijing,China,1,2008
+1,(ALG),Algeria,0,Beijing,China,1,2008
+1,(BAH),Bahamas,0,Beijing,China,1,2008
+1,(MAR),Morocco,0,Beijing,China,1,2008
+1,(TJK),Tajikistan,0,Beijing,China,1,2008
+0,(CHI),Chile,0,Beijing,China,1,2008
+0,(ECU),Ecuador,0,Beijing,China,1,2008
+0,(ISL),Iceland,0,Beijing,China,1,2008
+0,(MAS),Malaysia,0,Beijing,China,1,2008
+0,(SAM),Samoa,0,Beijing,China,1,2008
+0,(SIN),Singapore,0,Beijing,China,1,2008
+0,(RSA),South Africa,0,Beijing,China,1,2008
+0,(SUD),Sudan,0,Beijing,China,1,2008
+0,(VIE),Vietnam,0,Beijing,China,1,2008
+2,(EGY),Egypt,0,Beijing,China,0,2008
+1,(AFG),Afghanistan,0,Beijing,China,0,2008
+1,(ISR),Israel,0,Beijing,China,0,2008
+1,(MRI),Mauritius,0,Beijing,China,0,2008
+1,(MDA),Moldova,0,Beijing,China,0,2008
+1,(TOG),Togo,0,Beijing,China,0,2008
+1,(VEN),Venezuela,0,Beijing,China,0,2008
+26,(USA),United States,36,Athens,Greece,39,2004
+14,(CHN),China,32,Athens,Greece,17,2004
+36,(RUS),Russia,28,Athens,Greece,26,2004
+17,(AUS),Australia,17,Athens,Greece,16,2004
+12,(JPN),Japan,16,Athens,Greece,9,2004
+20,(GER),Germany,13,Athens,Greece,16,2004
+13,(FRA),France,11,Athens,Greece,9,2004
+11,(ITA),Italy,10,Athens,Greece,11,2004
+9,(KOR),South Korea,9,Athens,Greece,12,2004
+12,(GBR),Great Britain,9,Athens,Greece,9,2004
+11,(CUB),Cuba,9,Athens,Greece,7,2004
+3,(HUN),Hungary,8,Athens,Greece,6,2004
+9,(UKR),Ukraine,8,Athens,Greece,5,2004
+6,(ROU),Romania,8,Athens,Greece,5,2004
+4,(GRE),Greece,6,Athens,Greece,6,2004
+3,(BRA),Brazil,5,Athens,Greece,2,2004
+1,(NOR),Norway,5,Athens,Greece,0,2004
+9,(NED),Netherlands,4,Athens,Greece,9,2004
+1,(SWE),Sweden,4,Athens,Greece,2,2004
+6,(ESP),Spain,3,Athens,Greece,11,2004
+3,(CAN),Canada,3,Athens,Greece,6,2004
+5,(TUR),Turkey,3,Athens,Greece,3,2004
+5,(POL),Poland,3,Athens,Greece,2,2004
+0,(NZL),New Zealand,3,Athens,Greece,2,2004
+4,(THA),Thailand,3,Athens,Greece,1,2004
+6,(BLR),Belarus,2,Athens,Greece,5,2004
+1,(AUT),Austria,2,Athens,Greece,4,2004
+2,(ETH),Ethiopia,2,Athens,Greece,3,2004
+2,(IRI),Iran,2,Athens,Greece,2,2004
+2,(SVK),Slovakia,2,Athens,Greece,2,2004
+1,(TPE),Chinese Taipei,2,Athens,Greece,2,2004
+0,(GEO),Georgia,2,Athens,Greece,2,2004
+9,(BUL),Bulgaria,2,Athens,Greece,1,2004
+5,(DEN),Denmark,2,Athens,Greece,1,2004
+2,(JAM),Jamaica,2,Athens,Greece,1,2004
+2,(UZB),Uzbekistan,2,Athens,Greece,1,2004
+0,(MAR),Morocco,2,Athens,Greece,1,2004
+4,(ARG),Argentina,2,Athens,Greece,0,2004
+1,(CHI),Chile,2,Athens,Greece,0,2004
+3,(KAZ),Kazakhstan,1,Athens,Greece,4,2004
+2,(KEN),Kenya,1,Athens,Greece,4,2004
+5,(CZE),Czech Republic,1,Athens,Greece,3,2004
+2,(RSA),South Africa,1,Athens,Greece,3,2004
+2,(CRO),Croatia,1,Athens,Greece,2,2004
+0,(LTU),Lithuania,1,Athens,Greece,2,2004
+3,(EGY),Egypt,1,Athens,Greece,1,2004
+3,(SUI),Switzerland,1,Athens,Greece,1,2004
+2,(INA),Indonesia,1,Athens,Greece,1,2004
+1,(ZIM),Zimbabwe,1,Athens,Greece,1,2004
+4,(AZE),Azerbaijan,1,Athens,Greece,0,2004
+2,(BEL),Belgium,1,Athens,Greece,0,2004
+1,(BAH),Bahamas,1,Athens,Greece,0,2004
+1,(ISR),Israel,1,Athens,Greece,0,2004
+0,(CMR),Cameroon,1,Athens,Greece,0,2004
+0,(DOM),Dominican Republic,1,Athens,Greece,0,2004
+0,(UAE),United Arab Emirates,1,Athens,Greece,0,2004
+1,(PRK),North Korea,0,Athens,Greece,4,2004
+0,(LAT),Latvia,0,Athens,Greece,4,2004
+1,(MEX),Mexico,0,Athens,Greece,3,2004
+1,(POR),Portugal,0,Athens,Greece,2,2004
+0,(FIN),Finland,0,Athens,Greece,2,2004
+0,(SCG),Serbia and Montenegro,0,Athens,Greece,2,2004
+3,(SLO),Slovenia,0,Athens,Greece,1,2004
+2,(EST),Estonia,0,Athens,Greece,1,2004
+0,(HKG),Hong Kong,0,Athens,Greece,1,2004
+0,(IND),India,0,Athens,Greece,1,2004
+0,(PAR),Paraguay,0,Athens,Greece,1,2004
+2,(COL),Colombia,0,Athens,Greece,0,2004
+2,(NGR),Nigeria,0,Athens,Greece,0,2004
+2,(VEN),Venezuela,0,Athens,Greece,0,2004
+1,(ERI),Eritrea,0,Athens,Greece,0,2004
+1,(MGL),Mongolia,0,Athens,Greece,0,2004
+1,(SYR),Syria,0,Athens,Greece,0,2004
+1,(TRI),Trinidad and Tobago,0,Athens,Greece,0,2004
+32,(USA),United States,37,Sydney,Australia,24,2000
+29,(RUS),Russia,32,Sydney,Australia,28,2000
+14,(CHN),China,28,Sydney,Australia,16,2000
+17,(AUS),Australia,16,Sydney,Australia,25,2000
+26,(GER),Germany,13,Sydney,Australia,17,2000
+11,(FRA),France,13,Sydney,Australia,14,2000
+13,(ITA),Italy,13,Sydney,Australia,8,2000
+4,(NED),Netherlands,12,Sydney,Australia,9,2000
+7,(CUB),Cuba,11,Sydney,Australia,11,2000
+7,(GBR),Great Britain,11,Sydney,Australia,10,2000
+9,(ROU),Romania,11,Sydney,Australia,6,2000
+10,(KOR),South Korea,8,Sydney,Australia,10,2000
+3,(HUN),Hungary,8,Sydney,Australia,6,2000
+3,(POL),Poland,6,Sydney,Australia,5,2000
+5,(JPN),Japan,5,Sydney,Australia,8,2000
+2,(BUL),Bulgaria,5,Sydney,Australia,6,2000
+3,(GRE),Greece,4,Sydney,Australia,6,2000
+3,(SWE),Sweden,4,Sydney,Australia,5,2000
+3,(NOR),Norway,4,Sydney,Australia,3,2000
+3,(ETH),Ethiopia,4,Sydney,Australia,1,2000
+10,(UKR),Ukraine,3,Sydney,Australia,10,2000
+0,(KAZ),Kazakhstan,3,Sydney,Australia,4,2000
+11,(BLR),Belarus,3,Sydney,Australia,3,2000
+8,(CAN),Canada,3,Sydney,Australia,3,2000
+5,(ESP),Spain,3,Sydney,Australia,3,2000
+2,(TUR),Turkey,3,Sydney,Australia,0,2000
+1,(IRI),Iran,3,Sydney,Australia,0,2000
+3,(CZE),Czech Republic,2,Sydney,Australia,3,2000
+2,(KEN),Kenya,2,Sydney,Australia,3,2000
+1,(DEN),Denmark,2,Sydney,Australia,3,2000
+1,(FIN),Finland,2,Sydney,Australia,1,2000
+0,(AUT),Austria,2,Sydney,Australia,1,2000
+3,(LTU),Lithuania,2,Sydney,Australia,0,2000
+1,(AZE),Azerbaijan,2,Sydney,Australia,0,2000
+1,(BAH),Bahamas,2,Sydney,Australia,0,2000
+0,(SLO),Slovenia,2,Sydney,Australia,0,2000
+2,(SUI),Switzerland,1,Sydney,Australia,6,2000
+2,(INA),Indonesia,1,Sydney,Australia,3,2000
+1,(SVK),Slovakia,1,Sydney,Australia,3,2000
+3,(MEX),Mexico,1,Sydney,Australia,2,2000
+0,(NGR),Nigeria,1,Sydney,Australia,2,2000
+3,(ALG),Algeria,1,Sydney,Australia,1,2000
+2,(UZB),Uzbekistan,1,Sydney,Australia,1,2000
+1,(LAT),Latvia,1,Sydney,Australia,1,2000
+1,(YUG),Yugoslavia,1,Sydney,Australia,1,2000
+3,(NZL),New Zealand,1,Sydney,Australia,0,2000
+2,(EST),Estonia,1,Sydney,Australia,0,2000
+2,(THA),Thailand,1,Sydney,Australia,0,2000
+1,(CRO),Croatia,1,Sydney,Australia,0,2000
+0,(CMR),Cameroon,1,Sydney,Australia,0,2000
+0,(COL),Colombia,1,Sydney,Australia,0,2000
+0,(MOZ),Mozambique,1,Sydney,Australia,0,2000
+6,(BRA),Brazil,0,Sydney,Australia,6,2000
+3,(JAM),Jamaica,0,Sydney,Australia,6,2000
+3,(BEL),Belgium,0,Sydney,Australia,2,2000
+3,(RSA),South Africa,0,Sydney,Australia,2,2000
+2,(ARG),Argentina,0,Sydney,Australia,2,2000
+4,(TPE),Chinese Taipei,0,Sydney,Australia,1,2000
+4,(MAR),Morocco,0,Sydney,Australia,1,2000
+3,(PRK),North Korea,0,Sydney,Australia,1,2000
+1,(MDA),Moldova,0,Sydney,Australia,1,2000
+1,(KSA),Saudi Arabia,0,Sydney,Australia,1,2000
+1,(TRI),Trinidad and Tobago,0,Sydney,Australia,1,2000
+0,(IRL),Ireland,0,Sydney,Australia,1,2000
+0,(SRI),Sri Lanka,0,Sydney,Australia,1,2000
+0,(URU),Uruguay,0,Sydney,Australia,1,2000
+0,(VIE),Vietnam,0,Sydney,Australia,1,2000
+6,(GEO),Georgia,0,Sydney,Australia,0,2000
+2,(CRC),Costa Rica,0,Sydney,Australia,0,2000
+2,(POR),Portugal,0,Sydney,Australia,0,2000
+1,(ARM),Armenia,0,Sydney,Australia,0,2000
+1,(BAR),Barbados,0,Sydney,Australia,0,2000
+1,(CHI),Chile,0,Sydney,Australia,0,2000
+1,(ISL),Iceland,0,Sydney,Australia,0,2000
+1,(IND),India,0,Sydney,Australia,0,2000
+1,(ISR),Israel,0,Sydney,Australia,0,2000
+1,(KUW),Kuwait,0,Sydney,Australia,0,2000
+1,(KGZ),Kyrgyzstan,0,Sydney,Australia,0,2000
+1,(MKD),Macedonia,0,Sydney,Australia,0,2000
+1,(QAT),Qatar,0,Sydney,Australia,0,2000
+25,(USA),United States,44,Atlanta,United States,32,1996
+16,(RUS),Russia,26,Atlanta,United States,21,1996
+27,(GER),Germany,20,Atlanta,United States,18,1996
+12,(CHN),China,16,Atlanta,United States,22,1996
+15,(FRA),France,15,Atlanta,United States,7,1996
+12,(ITA),Italy,13,Atlanta,United States,10,1996
+23,(AUS),Australia,9,Atlanta,United States,9,1996
+8,(CUB),Cuba,9,Atlanta,United States,8,1996
+12,(UKR),Ukraine,9,Atlanta,United States,2,1996
+5,(KOR),South Korea,7,Atlanta,United States,15,1996
+5,(POL),Poland,7,Atlanta,United States,5,1996
+10,(HUN),Hungary,7,Atlanta,United States,4,1996
+6,(ESP),Spain,5,Atlanta,United States,6,1996
+9,(ROU),Romania,4,Atlanta,United States,7,1996
+10,(NED),Netherlands,4,Atlanta,United States,5,1996
+0,(GRE),Greece,4,Atlanta,United States,4,1996
+4,(CZE),Czech Republic,4,Atlanta,United States,3,1996
+0,(SUI),Switzerland,4,Atlanta,United States,3,1996
+1,(DEN),Denmark,4,Atlanta,United States,1,1996
+1,(TUR),Turkey,4,Atlanta,United States,1,1996
+8,(CAN),Canada,3,Atlanta,United States,11,1996
+5,(BUL),Bulgaria,3,Atlanta,United States,7,1996
+5,(JPN),Japan,3,Atlanta,United States,6,1996
+4,(KAZ),Kazakhstan,3,Atlanta,United States,4,1996
+9,(BRA),Brazil,3,Atlanta,United States,3,1996
+1,(NZL),New Zealand,3,Atlanta,United States,2,1996
+1,(RSA),South Africa,3,Atlanta,United States,1,1996
+1,(IRL),Ireland,3,Atlanta,United States,0,1996
+2,(SWE),Sweden,2,Atlanta,United States,4,1996
+3,(NOR),Norway,2,Atlanta,United States,2,1996
+2,(BEL),Belgium,2,Atlanta,United States,2,1996
+3,(NGR),Nigeria,2,Atlanta,United States,1,1996
+2,(PRK),North Korea,2,Atlanta,United States,1,1996
+1,(ALG),Algeria,2,Atlanta,United States,0,1996
+1,(ETH),Ethiopia,2,Atlanta,United States,0,1996
+6,(GBR),Great Britain,1,Atlanta,United States,8,1996
+8,(BLR),Belarus,1,Atlanta,United States,6,1996
+3,(KEN),Kenya,1,Atlanta,United States,4,1996
+2,(JAM),Jamaica,1,Atlanta,United States,3,1996
+1,(FIN),Finland,1,Atlanta,United States,2,1996
+2,(INA),Indonesia,1,Atlanta,United States,1,1996
+2,(YUG),Yugoslavia,1,Atlanta,United States,1,1996
+1,(IRI),Iran,1,Atlanta,United States,1,1996
+1,(SVK),Slovakia,1,Atlanta,United States,1,1996
+0,(ARM),Armenia,1,Atlanta,United States,1,1996
+0,(CRO),Croatia,1,Atlanta,United States,1,1996
+1,(POR),Portugal,1,Atlanta,United States,0,1996
+1,(THA),Thailand,1,Atlanta,United States,0,1996
+0,(BDI),Burundi,1,Atlanta,United States,0,1996
+0,(CRC),Costa Rica,1,Atlanta,United States,0,1996
+0,(ECU),Ecuador,1,Atlanta,United States,0,1996
+0,(HKG),Hong Kong,1,Atlanta,United States,0,1996
+0,(SYR),Syria,1,Atlanta,United States,0,1996
+1,(ARG),Argentina,0,Atlanta,United States,2,1996
+0,(NAM),Namibia,0,Atlanta,United States,2,1996
+0,(SLO),Slovenia,0,Atlanta,United States,2,1996
+2,(AUT),Austria,0,Atlanta,United States,1,1996
+1,(MAS),Malaysia,0,Atlanta,United States,1,1996
+1,(MDA),Moldova,0,Atlanta,United States,1,1996
+1,(UZB),Uzbekistan,0,Atlanta,United States,1,1996
+0,(AZE),Azerbaijan,0,Atlanta,United States,1,1996
+0,(BAH),Bahamas,0,Atlanta,United States,1,1996
+0,(TPE),Chinese Taipei,0,Atlanta,United States,1,1996
+0,(LAT),Latvia,0,Atlanta,United States,1,1996
+0,(PHI),Philippines,0,Atlanta,United States,1,1996
+0,(TGA),Tonga,0,Atlanta,United States,1,1996
+0,(ZAM),Zambia,0,Atlanta,United States,1,1996
+2,(GEO),Georgia,0,Atlanta,United States,0,1996
+2,(MAR),Morocco,0,Atlanta,United States,0,1996
+2,(TRI),Trinidad and Tobago,0,Atlanta,United States,0,1996
+1,(IND),India,0,Atlanta,United States,0,1996
+1,(ISR),Israel,0,Atlanta,United States,0,1996
+1,(LTU),Lithuania,0,Atlanta,United States,0,1996
+1,(MEX),Mexico,0,Atlanta,United States,0,1996
+1,(MGL),Mongolia,0,Atlanta,United States,0,1996
+1,(MOZ),Mozambique,0,Atlanta,United States,0,1996
+1,(PUR),Puerto Rico,0,Atlanta,United States,0,1996
+1,(TUN),Tunisia,0,Atlanta,United States,0,1996
+1,(UGA),Uganda,0,Atlanta,United States,0,1996
+29,(EUN),Unified Team,45,Barcelona,Spain,38,1992
+37,(USA),United States,37,Barcelona,Spain,34,1992
+28,(GER),Germany,33,Barcelona,Spain,21,1992
+16,(CHN),China,16,Barcelona,Spain,22,1992
+11,(CUB),Cuba,14,Barcelona,Spain,6,1992
+2,(ESP),Spain,13,Barcelona,Spain,7,1992
+12,(KOR),South Korea,12,Barcelona,Spain,5,1992
+7,(HUN),Hungary,11,Barcelona,Spain,12,1992
+16,(FRA),France,8,Barcelona,Spain,5,1992
+11,(AUS),Australia,7,Barcelona,Spain,9,1992
+7,(CAN),Canada,7,Barcelona,Spain,4,1992
+8,(ITA),Italy,6,Barcelona,Spain,5,1992
+12,(GBR),Great Britain,5,Barcelona,Spain,3,1992
+8,(ROU),Romania,4,Barcelona,Spain,6,1992
+1,(TCH),Czechoslovakia,4,Barcelona,Spain,2,1992
+5,(PRK),North Korea,4,Barcelona,Spain,0,1992
+11,(JPN),Japan,3,Barcelona,Spain,8,1992
+6,(BUL),Bulgaria,3,Barcelona,Spain,7,1992
+10,(POL),Poland,3,Barcelona,Spain,6,1992
+7,(NED),Netherlands,2,Barcelona,Spain,6,1992
+2,(KEN),Kenya,2,Barcelona,Spain,4,1992
+1,(NOR),Norway,2,Barcelona,Spain,4,1992
+2,(TUR),Turkey,2,Barcelona,Spain,2,1992
+1,(INA),Indonesia,2,Barcelona,Spain,2,1992
+0,(BRA),Brazil,2,Barcelona,Spain,1,1992
+0,(GRE),Greece,2,Barcelona,Spain,0,1992
+4,(SWE),Sweden,1,Barcelona,Spain,7,1992
+5,(NZL),New Zealand,1,Barcelona,Spain,4,1992
+2,(FIN),Finland,1,Barcelona,Spain,2,1992
+4,(DEN),Denmark,1,Barcelona,Spain,1,1992
+1,(MAR),Morocco,1,Barcelona,Spain,1,1992
+0,(IRL),Ireland,1,Barcelona,Spain,1,1992
+2,(ETH),Ethiopia,1,Barcelona,Spain,0,1992
+1,(ALG),Algeria,1,Barcelona,Spain,0,1992
+1,(EST),Estonia,1,Barcelona,Spain,0,1992
+1,(LTU),Lithuania,1,Barcelona,Spain,0,1992
+0,(SUI),Switzerland,1,Barcelona,Spain,0,1992
+1,(JAM),Jamaica,0,Barcelona,Spain,3,1992
+1,(NGR),Nigeria,0,Barcelona,Spain,3,1992
+1,(LAT),Latvia,0,Barcelona,Spain,2,1992
+0,(AUT),Austria,0,Barcelona,Spain,2,1992
+0,(NAM),Namibia,0,Barcelona,Spain,2,1992
+0,(RSA),South Africa,0,Barcelona,Spain,2,1992
+2,(BEL),Belgium,0,Barcelona,Spain,1,1992
+2,(CRO),Croatia,0,Barcelona,Spain,1,1992
+2,(IOP),Independent Olympic Participants,0,Barcelona,Spain,1,1992
+2,(IRI),Iran,0,Barcelona,Spain,1,1992
+1,(ISR),Israel,0,Barcelona,Spain,1,1992
+0,(TPE),Chinese Taipei,0,Barcelona,Spain,1,1992
+0,(MEX),Mexico,0,Barcelona,Spain,1,1992
+0,(PER),Peru,0,Barcelona,Spain,1,1992
+2,(MGL),Mongolia,0,Barcelona,Spain,0,1992
+2,(SLO),Slovenia,0,Barcelona,Spain,0,1992
+1,(ARG),Argentina,0,Barcelona,Spain,0,1992
+1,(BAH),Bahamas,0,Barcelona,Spain,0,1992
+1,(COL),Colombia,0,Barcelona,Spain,0,1992
+1,(GHA),Ghana,0,Barcelona,Spain,0,1992
+1,(MAS),Malaysia,0,Barcelona,Spain,0,1992
+1,(PAK),Pakistan,0,Barcelona,Spain,0,1992
+1,(PHI),Philippines,0,Barcelona,Spain,0,1992
+1,(PUR),Puerto Rico,0,Barcelona,Spain,0,1992
+1,(QAT),Qatar,0,Barcelona,Spain,0,1992
+1,(SUR),Suriname,0,Barcelona,Spain,0,1992
+1,(THA),Thailand,0,Barcelona,Spain,0,1992
+46,(URS),Soviet Union,55,Seoul,South Korea,31,1988
+30,(GDR),East Germany,37,Seoul,South Korea,35,1988
+27,(USA),United States,36,Seoul,South Korea,31,1988
+11,(KOR),South Korea,12,Seoul,South Korea,10,1988
+15,(FRG),West Germany,11,Seoul,South Korea,14,1988
+6,(HUN),Hungary,11,Seoul,South Korea,6,1988
+13,(BUL),Bulgaria,10,Seoul,South Korea,12,1988
+6,(ROU),Romania,7,Seoul,South Korea,11,1988
+6,(FRA),France,6,Seoul,South Korea,4,1988
+4,(ITA),Italy,6,Seoul,South Korea,4,1988
+12,(CHN),China,5,Seoul,South Korea,11,1988
+9,(GBR),Great Britain,5,Seoul,South Korea,10,1988
+2,(KEN),Kenya,5,Seoul,South Korea,2,1988
+7,(JPN),Japan,4,Seoul,South Korea,3,1988
+5,(AUS),Australia,3,Seoul,South Korea,6,1988
+5,(YUG),Yugoslavia,3,Seoul,South Korea,4,1988
+2,(TCH),Czechoslovakia,3,Seoul,South Korea,3,1988
+8,(NZL),New Zealand,3,Seoul,South Korea,2,1988
+5,(CAN),Canada,3,Seoul,South Korea,2,1988
+9,(POL),Poland,2,Seoul,South Korea,5,1988
+0,(NOR),Norway,2,Seoul,South Korea,3,1988
+5,(NED),Netherlands,2,Seoul,South Korea,2,1988
+1,(DEN),Denmark,2,Seoul,South Korea,1,1988
+3,(BRA),Brazil,1,Seoul,South Korea,2,1988
+2,(FIN),Finland,1,Seoul,South Korea,1,1988
+2,(ESP),Spain,1,Seoul,South Korea,1,1988
+0,(TUR),Turkey,1,Seoul,South Korea,1,1988
+2,(MAR),Morocco,1,Seoul,South Korea,0,1988
+0,(AUT),Austria,1,Seoul,South Korea,0,1988
+0,(POR),Portugal,1,Seoul,South Korea,0,1988
+0,(SUR),Suriname,1,Seoul,South Korea,0,1988
+7,(SWE),Sweden,0,Seoul,South Korea,4,1988
+2,(SUI),Switzerland,0,Seoul,South Korea,2,1988
+0,(JAM),Jamaica,0,Seoul,South Korea,2,1988
+1,(ARG),Argentina,0,Seoul,South Korea,1,1988
+0,(CHI),Chile,0,Seoul,South Korea,1,1988
+0,(CRC),Costa Rica,0,Seoul,South Korea,1,1988
+0,(INA),Indonesia,0,Seoul,South Korea,1,1988
+0,(IRI),Iran,0,Seoul,South Korea,1,1988
+0,(AHO),Netherlands Antilles,0,Seoul,South Korea,1,1988
+0,(PER),Peru,0,Seoul,South Korea,1,1988
+0,(SEN),Senegal,0,Seoul,South Korea,1,1988
+0,(ISV),Virgin Islands,0,Seoul,South Korea,1,1988
+2,(BEL),Belgium,0,Seoul,South Korea,0,1988
+2,(MEX),Mexico,0,Seoul,South Korea,0,1988
+1,(COL),Colombia,0,Seoul,South Korea,0,1988
+1,(DJI),Djibouti,0,Seoul,South Korea,0,1988
+1,(GRE),Greece,0,Seoul,South Korea,0,1988
+1,(MGL),Mongolia,0,Seoul,South Korea,0,1988
+1,(PAK),Pakistan,0,Seoul,South Korea,0,1988
+1,(PHI),Philippines,0,Seoul,South Korea,0,1988
+1,(THA),Thailand,0,Seoul,South Korea,0,1988
+32,(URS),Soviet Union,37,,,29,1956
+17,(USA),United States,32,,,25,1956
+14,(AUS),Australia,13,,,8,1956
+7,(HUN),Hungary,9,,,10,1956
+9,(ITA),Italy,8,,,8,1956
+6,(SWE),Sweden,8,,,5,1956
+7,(EUA),United Team of Germany,6,,,13,1956
+11,(GBR),Great Britain,6,,,7,1956
+5,(ROU),Romania,5,,,3,1956
+5,(JPN),Japan,4,,,10,1956
+6,(FRA),France,4,,,4,1956
+2,(TUR),Turkey,3,,,2,1956
+11,(FIN),Finland,3,,,1,1956
+1,(IRI),Iran,2,,,2,1956
+3,(CAN),Canada,2,,,1,1956
+0,(NZL),New Zealand,2,,,0,1956
+4,(POL),Poland,1,,,4,1956
+1,(TCH),Czechoslovakia,1,,,4,1956
+1,(BUL),Bulgaria,1,,,3,1956
+1,(DEN),Denmark,1,,,2,1956
+3,(IRL),Ireland,1,,,1,1956
+2,(NOR),Norway,1,,,0,1956
+1,(MEX),Mexico,1,,,0,1956
+0,(BRA),Brazil,1,,,0,1956
+0,(IND),India,1,,,0,1956
+0,(YUG),Yugoslavia,0,,,3,1956
+2,(CHI),Chile,0,,,2,1956
+0,(BEL),Belgium,0,,,2,1956
+1,(ARG),Argentina,0,,,1,1956
+1,(KOR),South Korea,0,,,1,1956
+0,(ISL),Iceland,0,,,1,1956
+0,(PAK),Pakistan,0,,,1,1956
+4,(RSA),South Africa,0,,,0,1956
+2,(AUT),Austria,0,,,0,1956
+1,(BAH),Bahamas,0,,,0,1956
+1,(GRE),Greece,0,,,0,1956
+1,(SUI),Switzerland,0,,,0,1956
+1,(URU),Uruguay,0,,,0,1956
+17,(USA),United States,40,Helsinki,Finland,19,1952
+19,(URS),Soviet Union,22,Helsinki,Finland,30,1952
+16,(HUN),Hungary,16,Helsinki,Finland,10,1952
+10,(SWE),Sweden,12,Helsinki,Finland,13,1952
+4,(ITA),Italy,8,Helsinki,Finland,9,1952
+3,(TCH),Czechoslovakia,7,Helsinki,Finland,3,1952
+6,(FRA),France,6,Helsinki,Finland,6,1952
+13,(FIN),Finland,6,Helsinki,Finland,3,1952
+3,(AUS),Australia,6,Helsinki,Finland,2,1952
+0,(NOR),Norway,3,Helsinki,Finland,2,1952
+6,(SUI),Switzerland,2,Helsinki,Finland,6,1952
+4,(RSA),South Africa,2,Helsinki,Finland,4,1952
+0,(JAM),Jamaica,2,Helsinki,Finland,3,1952
+0,(BEL),Belgium,2,Helsinki,Finland,2,1952
+3,(DEN),Denmark,2,Helsinki,Finland,1,1952
+1,(TUR),Turkey,2,Helsinki,Finland,0,1952
+2,(JPN),Japan,1,Helsinki,Finland,6,1952
+8,(GBR),Great Britain,1,Helsinki,Finland,2,1952
+2,(ARG),Argentina,1,Helsinki,Finland,2,1952
+1,(POL),Poland,1,Helsinki,Finland,2,1952
+0,(CAN),Canada,1,Helsinki,Finland,2,1952
+0,(YUG),Yugoslavia,1,Helsinki,Finland,2,1952
+2,(ROU),Romania,1,Helsinki,Finland,1,1952
+2,(BRA),Brazil,1,Helsinki,Finland,0,1952
+2,(NZL),New Zealand,1,Helsinki,Finland,0,1952
+1,(IND),India,1,Helsinki,Finland,0,1952
+0,(LUX),Luxembourg,1,Helsinki,Finland,0,1952
+17,(GER),Germany,0,Helsinki,Finland,7,1952
+0,(NED),Netherlands,0,Helsinki,Finland,5,1952
+4,(IRI),Iran,0,Helsinki,Finland,3,1952
+0,(CHI),Chile,0,Helsinki,Finland,2,1952
+1,(AUT),Austria,0,Helsinki,Finland,1,1952
+1,(LIB),Lebanon,0,Helsinki,Finland,1,1952
+0,(IRL),Ireland,0,Helsinki,Finland,1,1952
+0,(MEX),Mexico,0,Helsinki,Finland,1,1952
+0,(ESP),Spain,0,Helsinki,Finland,1,1952
+2,(KOR),South Korea,0,Helsinki,Finland,0,1952
+2,(TRI),Trinidad and Tobago,0,Helsinki,Finland,0,1952
+2,(URU),Uruguay,0,Helsinki,Finland,0,1952
+1,(BUL),Bulgaria,0,Helsinki,Finland,0,1952
+1,(EGY),Egypt,0,Helsinki,Finland,0,1952
+1,(POR),Portugal,0,Helsinki,Finland,0,1952
+1,(VEN),Venezuela,0,Helsinki,Finland,0,1952
+19,(USA),United States,38,London,Great Britain,27,1948
+17,(SWE),Sweden,16,London,Great Britain,11,1948
+13,(FRA),France,10,London,Great Britain,6,1948
+12,(HUN),Hungary,10,London,Great Britain,5,1948
+8,(ITA),Italy,8,London,Great Britain,11,1948
+5,(FIN),Finland,8,London,Great Britain,7,1948
+2,(TUR),Turkey,6,London,Great Britain,4,1948
+3,(TCH),Czechoslovakia,6,London,Great Britain,2,1948
+5,(SUI),Switzerland,5,London,Great Britain,10,1948
+8,(DEN),Denmark,5,London,Great Britain,7,1948
+9,(NED),Netherlands,5,London,Great Britain,2,1948
+6,(GBR),Great Britain,3,London,Great Britain,14,1948
+1,(ARG),Argentina,3,London,Great Britain,3,1948
+5,(AUS),Australia,2,London,Great Britain,6,1948
+3,(BEL),Belgium,2,London,Great Britain,2,1948
+1,(EGY),Egypt,2,London,Great Britain,2,1948
+2,(MEX),Mexico,2,London,Great Britain,1,1948
+1,(RSA),South Africa,2,London,Great Britain,1,1948
+3,(NOR),Norway,1,London,Great Britain,3,1948
+0,(JAM),Jamaica,1,London,Great Britain,2,1948
+3,(AUT),Austria,1,London,Great Britain,0,1948
+0,(IND),India,1,London,Great Britain,0,1948
+0,(PER),Peru,1,London,Great Britain,0,1948
+0,(YUG),Yugoslavia,0,London,Great Britain,2,1948
+2,(CAN),Canada,0,London,Great Britain,1,1948
+1,(POR),Portugal,0,London,Great Britain,1,1948
+1,(URU),Uruguay,0,London,Great Britain,1,1948
+0,(CEY),Ceylon,0,London,Great Britain,1,1948
+0,(CUB),Cuba,0,London,Great Britain,1,1948
+0,(ESP),Spain,0,London,Great Britain,1,1948
+0,(TRI),Trinidad and Tobago,0,London,Great Britain,1,1948
+2,(PAN),Panama,0,London,Great Britain,0,1948
+2,(KOR),South Korea,0,London,Great Britain,0,1948
+1,(BRA),Brazil,0,London,Great Britain,0,1948
+1,(IRI),Iran,0,London,Great Britain,0,1948
+1,(POL),Poland,0,London,Great Britain,0,1948
+1,(PUR),Puerto Rico,0,London,Great Britain,0,1948
+30,(GER),Germany,33,Berlin,Germany,26,1936
+12,(USA),United States,24,Berlin,Germany,20,1936
+5,(HUN),Hungary,10,Berlin,Germany,1,1936
+5,(ITA),Italy,8,Berlin,Germany,9,1936
+6,(FIN),Finland,7,Berlin,Germany,6,1936
+6,(FRA),France,7,Berlin,Germany,6,1936
+9,(SWE),Sweden,6,Berlin,Germany,5,1936
+8,(JPN),Japan,6,Berlin,Germany,4,1936
+7,(NED),Netherlands,6,Berlin,Germany,4,1936
+3,(GBR),Great Britain,4,Berlin,Germany,7,1936
+3,(AUT),Austria,4,Berlin,Germany,6,1936
+0,(TCH),Czechoslovakia,3,Berlin,Germany,5,1936
+3,(ARG),Argentina,2,Berlin,Germany,2,1936
+3,(EST),Estonia,2,Berlin,Germany,2,1936
+2,(EGY),Egypt,2,Berlin,Germany,1,1936
+5,(SUI),Switzerland,1,Berlin,Germany,9,1936
+5,(CAN),Canada,1,Berlin,Germany,3,1936
+2,(NOR),Norway,1,Berlin,Germany,3,1936
+1,(TUR),Turkey,1,Berlin,Germany,0,1936
+0,(IND),India,1,Berlin,Germany,0,1936
+0,(NZL),New Zealand,1,Berlin,Germany,0,1936
+3,(POL),Poland,0,Berlin,Germany,3,1936
+3,(DEN),Denmark,0,Berlin,Germany,2,1936
+1,(LAT),Latvia,0,Berlin,Germany,1,1936
+0,(ROU),Romania,0,Berlin,Germany,1,1936
+0,(RSA),South Africa,0,Berlin,Germany,1,1936
+0,(YUG),Yugoslavia,0,Berlin,Germany,1,1936
+3,(MEX),Mexico,0,Berlin,Germany,0,1936
+2,(BEL),Belgium,0,Berlin,Germany,0,1936
+1,(AUS),Australia,0,Berlin,Germany,0,1936
+1,(PHI),Philippines,0,Berlin,Germany,0,1936
+1,(POR),Portugal,0,Berlin,Germany,0,1936
